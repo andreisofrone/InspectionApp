@@ -14,7 +14,8 @@ namespace InspectionApp
 		{
 			get;
 			set;
-		}
+		}//testttttt
+		//adasdasda
 
 		public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
 		{
